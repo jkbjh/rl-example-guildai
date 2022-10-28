@@ -1,4 +1,7 @@
+gym==0.21.0
+pybullet==3.2.5
+-e git+git://github.com/deepmind/dm_control@644d9e0047f68b35a6f8b79e5e8493e2910563af#egg=dm-control
+mujoco-py==2.1.2.14
+-e git+https://github.com/jkbjh/d4rl@fb25ddfbba67196a2e576713720fc1142614cb50#egg=d4rl
 guildai
 stable-baselines3
-gym[all]
-
