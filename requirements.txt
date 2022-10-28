@@ -1,0 +1,4 @@
+guildai
+stable-baselines3
+gym[all]
+
